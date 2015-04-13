@@ -2,6 +2,8 @@ body {
   line-height: 1.4;
   font-family: 'Open Sans', sans-serif;
   color: #333;
+  /*color: white;*/
+  /*background-image: url("/images/gplaypattern.png");*/
 }
 
 header {
@@ -9,6 +11,8 @@ header {
   padding-top: 35px;
   position: fixed;
   background-color: white;
+  /*background-image: url("/images/gplaypattern.png");*/
+
 }
 
 h1 {
@@ -115,6 +119,13 @@ p {
 .container .sixteen.columns {
   margin-left: 0px;
 }
+
+.carrie_headshot {
+  margin-top: 100px;
+  max-width: 100%;
+  height: auto;
+}
+
 
 
 /* Smaller than standard 960 (devices and browsers) */
